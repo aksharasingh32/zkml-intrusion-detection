@@ -1,0 +1,5 @@
+pk.key
+network.compiled
+witness.json
+*.srs
+__pycache__/
