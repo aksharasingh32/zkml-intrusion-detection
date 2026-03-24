@@ -281,7 +281,7 @@ zkml-intrusion-detection/
 ├── proof.json               # Pre-generated ZK proof
 ├── input.json               # Sample input data
 ├── Verifier.sol             # Solidity smart contract verifier
-├── network.compiled         # EZKL compiled circuit (Linux)
+├── network.compiled         # EZKL compiled circuit (Linux) (not included in repo)
 ├── vk.key                   # Verification key
 ├── pk.key                   # Proving key (not included in repo due to big size kindly download) 
 └── webapp/
